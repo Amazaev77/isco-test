@@ -1,0 +1,51 @@
+.background {
+  background: rgba(0,0,0,0.2);
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+
+.header {
+  font-weight: 800;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  &_item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    &_label {
+      color: #7F8190;
+      font-size: 14px;
+    }
+    &_value {
+      color: black;
+      font-weight: 500;
+    }
+  }
+}
+
+.button {
+  background: #7671DD;
+  padding: 17px 20px;
+  outline: none;
+  border: none;
+  border-radius: 16px;
+  color: white;
+  cursor: pointer;
+  transition: all 100ms;
+  float: right;
+  &:active {
+    background: #5b56de;
+  }
+}
+
+

@@ -1,0 +1,25 @@
+.slow-transition {
+  &-enter {
+    opacity: 0;
+    position: relative;
+    z-index: 100;
+    &-active {
+      position: relative;
+      z-index: 100;
+      opacity: 1;
+      transition: opacity 200ms;
+      overflow: hidden;
+    }
+  }
+  &-exit {
+    opacity: 1;
+    position: relative;
+    z-index: 100;
+    &-active {
+      opacity: 0;
+      position: relative;
+      z-index: 100;
+      transition: opacity 200ms;
+    }
+  }
+}

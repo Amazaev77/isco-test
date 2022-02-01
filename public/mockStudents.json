@@ -1,0 +1,18 @@
+[
+  { "id": 1, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 2, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 3, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 4, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 5, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 6, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 7, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 8, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 9, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 10, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 11, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 12, "fullname": "Васильева Анна Игоревна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 13, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 14, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 15, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 },
+  { "id": 16, "fullname": "Алейникова Вероника Дмитриевна",  "systemApproach": 456, "points": 4456, "absences": 100, "finalGrade": 5 }
+]
